@@ -1,0 +1,7 @@
+name: project
+channels:
+  - defaults
+dependencies:
+  - numpy=1.15.4
+  - python=3.6.6
+  - pandas=1.1.3
